@@ -1,3 +1,3 @@
 Deber numero 3:
-Nombre
+Nombre; 
 Campo de futbol
